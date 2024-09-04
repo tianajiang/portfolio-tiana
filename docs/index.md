@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Tiana Jiang"
+  text: "a pineapple lover's portfolio"
+  tagline: "of all things pineapple"
   actions:
     - theme: brand
       text: Template Repository
