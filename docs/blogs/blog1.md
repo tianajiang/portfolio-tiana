@@ -3,6 +3,11 @@ title: The Unintended Effects of Pokemon GO
 layout: doc
 ---
 
+
+
+![Pokemon GO logo](/images/pokemonLogo.png){:width="300"}
+
+
 # The Unintended Effects of Pokemon GO
 
 In class, we talked about software having unintended consequences on its many stakeholders. This reminded me of the unintended consequences caused Pokemon GO a few years ago. Pokemon GO is a game that combines the virtual Pokemon world with the real physical world, sending players on missions to explore real nearby areas looking for virtual Pokemon. This was designed and marketed as a novel game that encouraged kids to explore outside amidst the growing epidemic of indoor screen time. However, this design led to several unintended consequences. 
